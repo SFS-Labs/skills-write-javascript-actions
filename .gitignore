@@ -33,8 +33,9 @@
 ._*
 .Spotlight-V100
 .Trashes
-ehthumbs.db
+ethumbs.db
 Thumbs.db
 
 # Add Node modules below #
-################
+##########################
+node_modules/
